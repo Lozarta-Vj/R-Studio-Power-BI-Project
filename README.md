@@ -14,5 +14,6 @@ This dashboard was originally created during my data analysis training. After a 
 
 Image of R Studio code shows steps from: checking for missing values, to exporting clean data as a CSV. 
 
-![image](https://github.com/user-attachments/assets/50ee9ecd-bd6a-4bf0-acaa-6d313beb2681)
+![image](https://github.com/user-attachments/assets/b30f8305-a478-4b84-816b-e8b54e99752a)
+
 
