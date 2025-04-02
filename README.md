@@ -9,7 +9,7 @@ The aim of this project was to analyse the performance of Hollywood films on the
   
 This dashboard was originally created during my data analysis training. After a year of further learning and practice, I improved it by focusing on clarity and user experience.
 
-![image](https://github.com/user-attachments/assets/5913a6fb-9558-4502-a808-3b8018f69d39)
+![Screenshot 2025-03-24 183215](https://github.com/user-attachments/assets/d572c721-7ae3-47c5-bdf0-6a9749264326)
 
 
 Image of R Studio code shows steps from: checking for missing values, to exporting clean data as a CSV. 
